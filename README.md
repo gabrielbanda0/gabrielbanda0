@@ -1,6 +1,7 @@
 ## Hi there, my name is Gabriel 👋
 
-I am a senior at the University of Texas at Austin studying Electrical & Computer Engineering. I have had the privilege of receiving a full ride through various scholarships that I have applied for. Throughout my undergraduate journey, I have participated in various activities, such as being part of my school's band program, starting a food Instagram account, studying abroad, and taking on several leadership roles within my Society of Hispanic Professional Engineers (SHPE) chapter.
+I’m a recent graduate of the University of Texas at Austin, where I earned my degree in Electrical & Computer Engineering. I’ll be joining Microsoft full-time as a Software Engineer in August 2025.
 
-Additionally, I have had several internship experiences. Most notably, I have been a Software Engineer intern at Microsoft and at Dell Technologies. I am passionate about my Hispanic community and strive to make a positive impact through my work and involvement. I am seeking full-time employment opportunities, so please reach out at banda.gabriel100@gmail.com.
+During my undergrad, I interned at Microsoft and Dell Technologies, studied abroad, marched in the UT band, and held multiple leadership roles in my SHPE chapter. I was honored to receive the Undergraduate Student Leadership Award in Engineering, a distinction recognizing leadership across the entire Cockrell School of Engineering student body.
 
+Feel free to reach out at banda.gabriel100@gmail.com!
